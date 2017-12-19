@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\никита\desktop\kolobokplay\kolobokplay\Player.h(91): warning C4244: аргумент: преобразование "int" в "float32", возможна потеря данных
+c:\users\никита\desktop\kolobokplay\kolobokplay\Player.h(98): warning C4244: аргумент: преобразование "int" в "float32", возможна потеря данных
+c:\users\никита\desktop\kolobokplay\kolobokplay\Player.h(107): warning C4244: аргумент: преобразование "int" в "float32", возможна потеря данных
+c:\users\никита\desktop\kolobokplay\kolobokplay\Player.h(115): warning C4244: аргумент: преобразование "int" в "float32", возможна потеря данных
+c:\users\никита\desktop\kolobokplay\kolobokplay\Levels.h(96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+Source.cpp(20): warning C4005: _WIN32_WINNT: изменение макроопределения
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: см. предыдущее определение "_WIN32_WINNT"
+  Создание кода
+  All 223 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  KolobokPlay.vcxproj -> C:\Users\никита\Desktop\KolobokPlay\Release\KolobokPlay.exe
+  KolobokPlay.vcxproj -> C:\Users\никита\Desktop\KolobokPlay\Release\KolobokPlay.pdb (Full PDB)
